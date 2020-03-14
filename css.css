@@ -12,3 +12,9 @@ color: red;}
 .background-2 {
   background-color: #afeeee;
 }
+.section1 {
+  font-family: "Times";
+  font-size: 30px;
+  background-color: yellow;
+}
+.background-3 {background-color: purple;}
